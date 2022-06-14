@@ -1,0 +1,2 @@
+D:/Program/Cygwin/bin/ar.exe qc libCommon.a CMakeFiles/Common.dir/BaseApplication.cpp.obj CMakeFiles/Common.dir/main.cpp.obj
+D:/Program/Cygwin/bin/ranlib.exe libCommon.a
